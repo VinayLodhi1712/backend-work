@@ -1,6 +1,4 @@
 const mongoose = require("mongoose")
-
-
 const ProductSchema = new mongoose.Schema({
     name: {
         type: String,
@@ -10,7 +8,7 @@ const ProductSchema = new mongoose.Schema({
         type:Number,
         required:true,
     },
-    featured:{
+    Featured:{
         type: Boolean,
         default: false,
     },

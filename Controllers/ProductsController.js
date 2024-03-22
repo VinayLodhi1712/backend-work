@@ -34,7 +34,7 @@ const getAllProductsControllers = async (req,res)=>{
     console.log(queryObject)
     
     const mydata = await apiData;
-    res.status(200).json({ mydata })
+    res.status(200).json({ mydata , nbHits: mydata.length})
 }
 
 const getAllProductsTestingControllers = async(req,res)=>{
