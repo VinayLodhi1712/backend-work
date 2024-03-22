@@ -1,0 +1,37 @@
+[
+    {
+        "name": "iphone",
+        "price": 1539,
+        "Featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "apple",
+        "price": 153,
+        "Featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "watch",
+        "price": 159,
+        "company": "dell"
+    },
+    {
+        "name": "iphone",
+        "price": 153,
+        "Featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "phone",
+        "price": 190,
+        "Featured": true,
+        "company": "Redmi"
+    },
+    {
+        "name": "iphone",
+        "price": 153,
+        "Featured": true,
+        "company": "apple"
+    }
+]
